@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-nacos" />
+        <module name="alibaba-nacos-discovery-client-common" />
+        <module name="alibaba-nacos-discovery-client-webclient" />
+        <module name="alibaba-nacos-discovery-server" />
+        <module name="alibaba-nacos-discovery-client-feign" />
+        <module name="alibaba-nacos-config-client" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-cloud-starter-alibaba-nacos-discovery" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="alibaba-nacos-config-client" options="-parameters" />
+      <module name="alibaba-nacos-discovery-client-common" options="-parameters" />
+      <module name="alibaba-nacos-discovery-client-feign" options="-parameters" />
+      <module name="alibaba-nacos-discovery-client-webclient" options="-parameters" />
+      <module name="alibaba-nacos-discovery-server" options="-parameters" />
+      <module name="spring-cloud-starter-alibaba-nacos-discovery" options="-parameters" />
+    </option>
+  </component>
+</project>
