@@ -1,67 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="322bb537-4c1d-4868-bb00-36627fa2a75f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-config-client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-config-client/src/main/java/com/nacos/AlibabaNacosConfigClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-config-client/src/main/java/com/nacos/controller/ConfigController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-config-client/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-config-client/src/test/java/com/nacos/AlibabaNacosConfigClientApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-config-client/target/classes/bootstrap.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-config-client/target/classes/com/nacos/AlibabaNacosConfigClientApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-config-client/target/classes/com/nacos/controller/ConfigController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-config-client/target/test-classes/com/nacos/AlibabaNacosConfigClientApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-common/src/main/java/com/nacos/AlibabaNacosDiscoveryClientCommonApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-common/src/main/java/com/nacos/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-common/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-common/src/test/java/com/nacos/AlibabaNacosDiscoveryClientCommonApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-common/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-common/target/classes/com/nacos/AlibabaNacosDiscoveryClientCommonApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-common/target/classes/com/nacos/controller/TestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-common/target/test-classes/com/nacos/AlibabaNacosDiscoveryClientCommonApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-feign/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-feign/src/main/java/com/nacos/AlibabaNacosDiscoveryClientFeignApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-feign/src/main/java/com/nacos/controller/FeignController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-feign/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-feign/src/test/java/com/nacos/AlibabaNacosDiscoveryClientFeignApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-feign/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-feign/target/classes/com/nacos/AlibabaNacosDiscoveryClientFeignApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-feign/target/classes/com/nacos/controller/FeignController$Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-feign/target/classes/com/nacos/controller/FeignController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-feign/target/test-classes/com/nacos/AlibabaNacosDiscoveryClientFeignApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-webclient/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-webclient/src/main/java/com/nacos/AlibabaNacosDiscoveryClientWebclientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-webclient/src/main/java/com/nacos/controller/WebClientController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-webclient/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-webclient/src/test/java/com/nacos/AlibabaNacosDiscoveryClientWebclientApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-webclient/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-webclient/target/classes/com/nacos/AlibabaNacosDiscoveryClientWebclientApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-webclient/target/classes/com/nacos/controller/WebClientController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-client-webclient/target/test-classes/com/nacos/AlibabaNacosDiscoveryClientWebclientApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-server/src/main/java/com/nacos/AlibabaNacosDiscoveryServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-server/src/main/java/com/nacos/controller/ServerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-server/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-server/src/test/java/com/nacos/AlibabaNacosDiscoveryServerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-server/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-server/target/classes/com/nacos/AlibabaNacosDiscoveryServerApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-server/target/classes/com/nacos/controller/ServerContoller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-server/target/surefire-reports/TEST-com.nacos.AlibabaNacosDiscoveryServerApplicationTests.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-server/target/surefire-reports/com.nacos.AlibabaNacosDiscoveryServerApplicationTests.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba-nacos-discovery-server/target/test-classes/com/nacos/AlibabaNacosDiscoveryServerApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-nacos.iml" afterDir="false" />
-    </list>
+    <list default="true" id="322bb537-4c1d-4868-bb00-36627fa2a75f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -91,33 +37,27 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.47586206" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/code_repo/testmainrepo/spring_cloud_nacos/alibaba-nacos-config-client",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Develop\Study\springcloud\spring-cloud-nacos\alibaba-nacos-config-client\src\main\resources" />
       <recent name="D:\Develop\Study\springcloud\spring-cloud-nacos\alibaba-nacos-config-client\src\main\resources\templates" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
   </component>
   <component name="RunManager" selected="Spring Boot.AlibabaNacosConfigClientApplication">
     <configuration name="AlibabaNacosConfigClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -163,6 +103,7 @@
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -175,6 +116,7 @@
       <updated>1618797429305</updated>
       <workItem from="1618797434748" duration="6967000" />
       <workItem from="1618880427684" duration="19293000" />
+      <workItem from="1684896199389" duration="823000" />
     </task>
     <servers />
   </component>
@@ -191,75 +133,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="213" y="0" key="#Project_Structure" timestamp="1618886031544">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="213" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1618886031544" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1618910789338">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1618910789338" />
-    <state x="579" y="331" key="Gitee.CreateGistDialog" timestamp="1618910857217">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="579" y="331" key="Gitee.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1618910857217" />
-    <state x="589" y="312" key="Gitee.ShareDialog" timestamp="1618910761123">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="589" y="312" key="Gitee.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1618910761123" />
-    <state width="1478" height="388" key="GridCell.Tab.0.bottom" timestamp="1618908999542">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1478" height="388" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618908999542" />
-    <state width="1478" height="388" key="GridCell.Tab.0.center" timestamp="1618908999542">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1478" height="388" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1618908999542" />
-    <state width="1478" height="388" key="GridCell.Tab.0.left" timestamp="1618908999542">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1478" height="388" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1618908999542" />
-    <state width="1478" height="388" key="GridCell.Tab.0.right" timestamp="1618908999542">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1478" height="388" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1618908999542" />
-    <state width="1478" height="388" key="GridCell.Tab.1.bottom" timestamp="1618908999542">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1478" height="388" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618908999542" />
-    <state width="1478" height="388" key="GridCell.Tab.1.center" timestamp="1618908999542">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1478" height="388" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1618908999542" />
-    <state width="1478" height="388" key="GridCell.Tab.1.left" timestamp="1618908999542">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1478" height="388" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1618908999542" />
-    <state width="1478" height="388" key="GridCell.Tab.1.right" timestamp="1618908999542">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1478" height="388" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1618908999542" />
-    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1618883235306">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1618883235306" />
-    <state x="224" y="115" key="NewModule_or_Project.wizard" timestamp="1618881205109">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="224" y="115" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1618881205109" />
-    <state x="270" y="56" key="SettingsEditor" timestamp="1618797765135">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1618797765135" />
-    <state x="467" y="144" width="602" height="536" key="find.popup" timestamp="1618884084026">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="467" y="144" width="602" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1618884084026" />
-    <state x="251" y="119" key="new project wizard" timestamp="1618888006524">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="251" y="119" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1618888006524" />
   </component>
 </project>
